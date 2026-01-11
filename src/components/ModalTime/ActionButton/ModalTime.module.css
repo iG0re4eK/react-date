@@ -1,0 +1,13 @@
+.modal-time {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 1rem;
+  border-radius: 0.4rem;
+  background-color: rgb(185, 185, 185);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+}

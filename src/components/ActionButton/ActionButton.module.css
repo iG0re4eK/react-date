@@ -1,0 +1,11 @@
+.action-button {
+  cursor: pointer;
+  border: none;
+  padding: 1rem;
+  border-radius: 0.4rem;
+  transition: 0.2s ease;
+
+  &:active {
+    color: white;
+  }
+}
